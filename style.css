@@ -1,4 +1,17 @@
 body {
-  color: black;
-  background-color: yellow;
+margin: 0;
+padding: 0;
+font-family: Arial;
+background-color: antiquewhite;
+}
+table,th,td{
+ background-color: aqua;
+  width: 900px;
+  margin: auto;
+  font-size: 30px;
+  padding: 10px;
+  text-align: center;
+  border: 2px solid #000;
+  margin-top: 60px;
+  
 }
